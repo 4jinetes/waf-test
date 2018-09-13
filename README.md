@@ -1,1 +1,5 @@
-# AWS-WAF-Test
+# WAF-TEST
+
+```
+python waf-test.py URL
+```
