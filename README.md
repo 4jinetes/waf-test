@@ -1,6 +1,7 @@
 # WAF-TEST
 
 ```
+pip install -r requirements.txt
 python waf-test.py URL
 ...
 ...
